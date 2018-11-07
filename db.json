@@ -1,0 +1,24 @@
+{
+	"adobeData": {
+		"API": {
+			"LoginStatus": "?",
+			"LoginType": "?",
+			"CustomerHash": "?",
+			"BRSNr": "?",
+			"ATProperty": "?"
+		},
+		"localsource": {
+			"LoginStatus": "?",
+			"PageName": "?",
+			"SeoDescription": "?",
+			"SeoKeywords": "?",
+			"SeoTitle": "?",
+			"Kruimelpad": "?",
+			"ServerRelativeUrl": "?",
+			"klantreizen": [{
+				"NieuweBaan": true,
+				"KorteHerintreder": true
+			}]
+		}
+	}
+}
